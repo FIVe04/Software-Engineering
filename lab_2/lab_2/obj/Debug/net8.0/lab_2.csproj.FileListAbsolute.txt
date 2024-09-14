@@ -1,0 +1,15 @@
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/bin/Debug/net8.0/lab_2
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/bin/Debug/net8.0/lab_2.deps.json
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/bin/Debug/net8.0/lab_2.runtimeconfig.json
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/bin/Debug/net8.0/lab_2.dll
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/bin/Debug/net8.0/lab_2.pdb
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/obj/Debug/net8.0/lab_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/obj/Debug/net8.0/lab_2.AssemblyInfoInputs.cache
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/obj/Debug/net8.0/lab_2.AssemblyInfo.cs
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/obj/Debug/net8.0/lab_2.csproj.CoreCompileInputs.cache
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/obj/Debug/net8.0/lab_2.sourcelink.json
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/obj/Debug/net8.0/lab_2.dll
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/obj/Debug/net8.0/refint/lab_2.dll
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/obj/Debug/net8.0/lab_2.pdb
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/obj/Debug/net8.0/lab_2.genruntimeconfig.cache
+/Users/ivanfrolov/Desktop/MPEI/sem_5_2024/SoftwareEngineering/lab_2/lab_2/obj/Debug/net8.0/ref/lab_2.dll
